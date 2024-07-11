@@ -1,6 +1,7 @@
 #Port Scanner
 
 This Python script performs a basic port scan on a specified target to check the status of common ports. It takes a hostname or IP address as an input and reports whether each scanned port is open or closed.
+
 Features:
 
 Scans a predefined list of common ports (e.g., 53, 80, 443, etc.).
