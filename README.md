@@ -18,6 +18,7 @@ To scan specific ports on a target:  python port_Scanner.py <hostname> <arg2> <c
 
 Example:
         python3 port_Scanner.py example.com
+        
         python3 port_Scanner.py example.com -p 21,22,80
 
 Requirements:
